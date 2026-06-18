@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.coverage/
+htmlcov/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Node.js
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment & OS
+.env
+.env.local
+*.log
+.DS_Store
+Thumbs.db
+*.db
+*.sqlite3
